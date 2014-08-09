@@ -32,7 +32,7 @@ img {
   margin: 0 auto 0 auto;
   width: 800px;
   overflow: auto;
-  background: url(background.jpg);
+  background: url(../images/background.jpg);
 }
 
 #content p {
@@ -49,7 +49,7 @@ img {
   padding-top: 20px;
   background-color: #ebebed;
   background-repeat: no-repeat;
-  background-image: url(footer.jpg);
+  background-image: url(../images/footer.jpg);
   text-align: center;
 }
 
