@@ -18,7 +18,7 @@
 <div id="container">
 
   <div id="header">
-    <img src="header.jpg" />
+    <img src="<?=get_template_directory_uri();?>/images/header.jpg" />
   </div>
 
   <div id="content">
